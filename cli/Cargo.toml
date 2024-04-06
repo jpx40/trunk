@@ -10,7 +10,7 @@ readme = "README.md"
 repository = "https://github.com/tembo-io/trunk"
 
 [[bin]]
-name = "trunk"
+name = "pg-trunk"
 path = "src/main.rs"
 
 [dependencies]
